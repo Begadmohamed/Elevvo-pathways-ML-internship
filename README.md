@@ -14,7 +14,7 @@ Successful completion of these tasks leads to official certification from Elevvo
 - 📊 Type: Regression
 - 🛠️ Techniques: Linear Regression, Random Forest, Feature Engineering
 
-📁 [View Task]([./task1-score-predictor](https://github.com/Begadmohamed/Elevvo-pathways-ML-internship/blob/main/Task1-Students_score_Prediction.ipynb))
+📁 [View Task](Task1-Students_score_Prediction.ipynb)
 
 ---
 
