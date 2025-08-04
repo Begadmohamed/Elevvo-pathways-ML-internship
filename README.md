@@ -18,7 +18,17 @@ Successful completion of these tasks leads to official certification from Elevvo
 
 ---
 
-### ✅ 2. Sales Forecast
+### ✅ 2. Customer Segmentation
+**Objective**: Segment mall customers into clusters based on their income and spending score.
+
+- 📊 Type: Clustering (Unsupervised)
+- 🛠️ Techniques: K-Means, Elbow Method, Data Scaling
+
+📁 [View Task](Task2-Customer_Segmentation.ipynb)
+
+---
+
+### ✅ 3. Sales Forecast
 **Objective**: Forecast Walmart sales using historical data and time-based features.
 
 - 📊 Type: Time Series Forecasting
@@ -28,7 +38,7 @@ Successful completion of these tasks leads to official certification from Elevvo
 
 ---
 
-### ✅ 3. Forest Classifier
+### ✅ 4. Forest Classifier
 **Objective**: Classify types of forest cover using geographical and cartographic data.
 
 - 📊 Type: Classification
@@ -38,15 +48,7 @@ Successful completion of these tasks leads to official certification from Elevvo
 
 ---
 
-### ✅ 4. Customer Segmentation
-**Objective**: Segment mall customers into clusters based on their income and spending score.
 
-- 📊 Type: Clustering (Unsupervised)
-- 🛠️ Techniques: K-Means, Elbow Method, Data Scaling
-
-📁 [View Task](./task4-customer-segmentation)
-
----
 
 ## 🛠️ Tools & Libraries Used
 
