@@ -38,13 +38,13 @@ Successful completion of these tasks leads to official certification from Elevvo
 
 ---
 
-### ✅ 4. Forest Classifier
-**Objective**: Classify types of forest cover using geographical and cartographic data.
+### ✅ 4. Movie Recommendation System
+**Objective**: Recommend movies to users based on user similarity using historical rating data.
 
-- 📊 Type: Classification
-- 🛠️ Techniques: Decision Trees, KNN, Random Forest
+🎬 Type: Recommendation System
 
-📁 [View Task](./task3-forest-classifier)
+🛠️ Techniques: User-Based Collaborative Filtering, User-Item Matrix, Similarity Scores
+📁 [View Task]()
 
 ---
 
