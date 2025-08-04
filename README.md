@@ -34,7 +34,7 @@ Successful completion of these tasks leads to official certification from Elevvo
 - 📊 Type: Time Series Forecasting
 - 🛠️ Techniques: ARIMA, XGBoost, Seasonal Patterns
 
-📁 [View Task](./task2-sales-forecast)
+📁 [View Task](Task3-Sales_Forecasting_Description.ipynb)
 
 ---
 
@@ -44,6 +44,7 @@ Successful completion of these tasks leads to official certification from Elevvo
 🎬 Type: Recommendation System
 
 🛠️ Techniques: User-Based Collaborative Filtering, User-Item Matrix, Similarity Scores
+
 📁 [View Task]()
 
 ---
